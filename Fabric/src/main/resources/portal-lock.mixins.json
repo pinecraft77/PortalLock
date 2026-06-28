@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.example.portallock.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "EntityPortalMixin",
+    "NetherPortalBlockMixin",
+    "EndPortalBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

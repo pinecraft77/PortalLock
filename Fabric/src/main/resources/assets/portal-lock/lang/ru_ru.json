@@ -1,0 +1,9 @@
+{
+  "nether-denied": "&eЧтобы войти в Незер, нужен предмет &c%item%&e!",
+  "end-denied": "&dЧтобы войти в Край, нужен предмет &c%item%&d!",
+  "modmenu.nameTranslation.portal-lock": "Portal Lock",
+  "modmenu.descriptionTranslation.portal-lock": "Требуются определённые предметы для входа в Нижний мир и Край.",
+  "portal-lock.description": "Требуются определённые предметы для входа в Нижний мир и Край.",
+  "modmenu.portal-lock.modrinth": "Страница Modrinth",
+  "modmenu.portal-lock.curseforge": "Страница CurseForge"
+}

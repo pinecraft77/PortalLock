@@ -1,0 +1,9 @@
+{
+  "nether-denied": "&eTi serve &c%item%&e per entrare nel Nether!",
+  "end-denied": "&dTi serve &c%item%&d per entrare nell'End!",
+  "modmenu.nameTranslation.portal-lock": "Portal Lock",
+  "modmenu.descriptionTranslation.portal-lock": "Richiede oggetti specifici per entrare nel Nether e nell'End.",
+  "portal-lock.description": "Richiede oggetti specifici per entrare nel Nether e nell'End.",
+  "modmenu.portal-lock.modrinth": "Pagina Modrinth",
+  "modmenu.portal-lock.curseforge": "Pagina CurseForge"
+}

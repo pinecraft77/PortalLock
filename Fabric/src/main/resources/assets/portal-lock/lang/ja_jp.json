@@ -1,0 +1,9 @@
+{
+  "nether-denied": "&eネザーに入るには&c%item%&eが必要です！",
+  "end-denied": "&dエンドに入るには&c%item%&dが必要です！",
+  "modmenu.nameTranslation.portal-lock": "Portal Lock",
+  "modmenu.descriptionTranslation.portal-lock": "ネザーやエンドに入るために特定のアイテムを必要とするModです。",
+  "portal-lock.description": "ネザーやエンドに入るために特定のアイテムを必要とするModです。",
+  "modmenu.portal-lock.modrinth": "Modrinthページ",
+  "modmenu.portal-lock.curseforge": "CurseForgeページ"
+}

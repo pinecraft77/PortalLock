@@ -1,0 +1,9 @@
+{
+  "nether-denied": "&e네더에 들어가려면 &c%item%&e이(가) 필요합니다!",
+  "end-denied": "&d엔드에 들어가려면 &c%item%&d이(가) 필요합니다!",
+  "modmenu.nameTranslation.portal-lock": "Portal Lock",
+  "modmenu.descriptionTranslation.portal-lock": "네더와 엔드에 들어가기 위해 특정 아이템이 필요합니다.",
+  "portal-lock.description": "네더와 엔드에 들어가기 위해 특정 아이템이 필요합니다.",
+  "modmenu.portal-lock.modrinth": "Modrinth 페이지",
+  "modmenu.portal-lock.curseforge": "CurseForge 페이지"
+}

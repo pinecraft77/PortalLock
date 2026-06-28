@@ -1,0 +1,9 @@
+{
+  "nether-denied": "&e进入下界需要 &c%item%&e！",
+  "end-denied": "&d进入末地需要 &c%item%&d！",
+  "modmenu.nameTranslation.portal-lock": "Portal Lock",
+  "modmenu.descriptionTranslation.portal-lock": "进入下界和末地需要特定物品。",
+  "portal-lock.description": "进入下界和末地需要特定物品。",
+  "modmenu.portal-lock.modrinth": "Modrinth 页面",
+  "modmenu.portal-lock.curseforge": "CurseForge 页面"
+}
