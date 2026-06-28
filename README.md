@@ -1,5 +1,5 @@
 # PortalLock
-![PortalLock](PortalLock.png)
+![PortalLock](assets/PortalLock.png)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Fabric-brightgreen)
 ![Version](https://img.shields.io/badge/Version-v1.2.0-blue)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
